@@ -1,4 +1,4 @@
----
+--- Natasha Tsekiri
 title: "Some cool animal facts"
 author: "Philip Leftwich"
 output: html_document
@@ -57,7 +57,17 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
-###
+
+#### Baby Yoda 
+
+![Grogu](Grogu.jpg)
+
+##### Grogu fun facts:  
+
+- Also known as “The Child”  
+- Likes unfertilised frog eggs & control knobs  
+- Strong with the force  
+
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
